@@ -1,5 +1,5 @@
-# CheckPoint SourceGuard ![header image](sg-logo.png)
-## CheckPoint DevSecOps Source Code and Docker Container Image Scanner.
+# Check Point SourceGuard ![header image](sg-logo.png)
+## Check Point DevSecOps Source Code and Docker Container Image Scanner.
 
 With the rapid adoption of devops for application build and runtime, workloads have evolved from infrastructure servers and virtual machines to code with containers and serverless.
 Infrastructure style security has to evolve as well to code centric security from application build to runtime by shifting security to the left and by becoming treated as code.
