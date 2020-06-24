@@ -29,10 +29,10 @@ on our endpoint security.
 ThreatCloud will bring the best CVE and Malware DBs engine with our SAST and DAST security.  
 > https://community.checkpoint.com/t5/CheckMates-Nuggets/What-is-Threat-Cloud/td-p/47738
   
-## SourceGuard is NOW available for Beta testing on the CheckPoint Infinity portal.
-### Note: While in Beta testing, we will allow up to 100Mb of scans per day.
+# SourceGuard is NOW available for Beta testing on the CheckPoint Infinity portal.
+## IMPORTANT: While in Beta testing, we will allow up to 100Mb of source code scans per day and 2GB of container images per dat.
 
-## SourceGuard Installation:
+### SourceGuard Installation:
 
 Please go to the Infinity portal at https://portal.checkpoint.com
 Create an account by signing up to Infinity even if you are a checkpoint employee.
